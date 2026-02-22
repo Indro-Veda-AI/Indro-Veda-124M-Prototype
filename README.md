@@ -1,7 +1,7 @@
 # 🔱 Indro-Veda: Sovereign AI Prototype
 
 <p align="center">
-  <img src="logo.jpg" width="300" alt="Indro-Veda Logo">
+  <img src="IMG_20260222_112959.jpg" width="300" alt="Indro-Veda Logo">
 </p>
 
 **Indro-Veda** is a decentralized, sovereign artificial intelligence initiative. This project represents the first phase of building high-performance Large Language Models (LLMs) from scratch, specifically optimized for logic, reasoning, and the linguistic nuances of the Indian subcontinent.
